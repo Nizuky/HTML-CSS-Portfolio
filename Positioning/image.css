@@ -1,0 +1,141 @@
+body.one{
+    background-image: url('bg.jpeg');
+    height:100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+div.bg{
+    position: absolute;
+    background-color: yellow;
+    top:200px; left:220px;
+    height: 500px;
+    width: 1050px;
+    border-color: white;
+    border-width: 20px;
+    border-radius: 50px;
+}
+
+img.main{
+    position: absolute;
+    top:300px; left:250px;
+    height: 300px;
+    width: 400px;
+}
+
+div.title{
+    left:500px; top:100px;
+    height:fit-content; width:fit-content;
+    position: absolute;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color:white;
+}
+
+img.a{
+    position: absolute;
+    top:250px; left:680px;
+    height: 80px;
+    width: 120px;
+}
+img.b{
+    position: absolute;
+    top:350; left:680px;
+    height: 80px;
+    width: 120px;
+}
+img.c{
+    position: absolute;
+    top:450; left:680px;
+    height: 80px;
+    width: 120px;
+}
+img.d{
+    position: absolute;
+    top:550; left:680px;
+    height: 80px;
+    width: 120px;
+}
+
+img.e{
+    position: absolute;
+    top:250; left:820px;
+    height: 80px;
+    width: 120px;
+}
+img.f{
+    position: absolute;
+    top:350; left:820px;
+    height: 80px;
+    width: 120px;
+}
+img.g{
+    position: absolute;
+    top:450; left:820px;
+    height: 80px;
+    width: 120px;
+}
+img.h{
+    position: absolute;
+    top:550; left:820px;
+    height: 80px;
+    width: 120px;
+}
+
+img.i{
+    position: absolute;
+    top:250; left:960px;
+    height: 80px;
+    width: 120px;
+}
+img.j{
+    position: absolute;
+    top:350; left:960px;
+    height: 80px;
+    width: 120px;
+}
+img.k{
+    position: absolute;
+    top:450; left:960px;
+    height: 80px;
+    width: 120px;
+}
+img.l{
+    position: absolute;
+    top:550; left:960px;
+    height: 80px;
+    width: 120px;
+}
+
+img.m{
+    position: absolute;
+    top:250; left:1100px;
+    height: 80px;
+    width: 120px;
+}
+img.n{
+    position: absolute;
+    top:350; left:1100px;
+    height: 80px;
+    width: 120px;
+}
+img.o{
+    position: absolute;
+    top:450; left:1100px;
+    height: 80px;
+    width: 120px;
+}
+img.p{
+    position: absolute;
+    top:550; left:1100px;
+    height: 80px;
+    width: 120px;
+}
+
+
+    
